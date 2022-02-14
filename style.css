@@ -1,3 +1,16 @@
+h1 {
+    font-size: 60px
+}
+
 body {
-    background: rgb(110, 110, 229);
+   
+    color: rgb(31, 2, 27);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(56, 7, 7);
+    background: url("images/Petia/IMG_5793.jpeg") center no-repeat;
+    background-size: 300px;
+    background-repeat: space;
+    margin: auto;
+    background-color: pink;
+    
 }
